@@ -35,6 +35,7 @@ body {
 <table align="center">
 <tr>
 <th>spring<br>
+<!-- give the path of jpg files -->
 <span style="padding-left:4em"><img alt="" src="file:///Users/amulyachennaboyena/Downloads/spring-mvc-example/WebContent/resources/spring.jpg" width="100" height ="100">
 </span></th>
 <th>summer<br>
